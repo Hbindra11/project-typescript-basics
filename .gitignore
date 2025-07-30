@@ -1,8 +1,6 @@
 # VSCode
 .vscode/*
 
-# Read Me
-**/README.md
 
 # Node Folder
 node_modules/*
