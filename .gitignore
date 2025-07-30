@@ -1,0 +1,16 @@
+# VSCode
+.vscode/*
+
+# Read Me
+**/README.md
+
+# Node Folder
+node_modules/*
+
+# Package Files after Tailwind Install
+package-lock.json
+package.json
+tailwind.config.js
+
+# Build Output
+build/*
